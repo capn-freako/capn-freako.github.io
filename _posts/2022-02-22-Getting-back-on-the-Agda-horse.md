@@ -10,4 +10,4 @@ I needed to dust of my Agda coding skills and remember how to interact w/ its pr
 Just before leaving my last job, we'd been reading Conal Elliott's _The Simple Essence of Automatic Differentiation_.
 So, I decided that I'd try proving some of the isomorphisms Conal reveals in that paper, in Agda.
 
-You can view my work here: [Agda Proofs](htpps://capn-freako.github.io/agda_misc/).
+You can view my work here: [Agda Proofs](htpps://capn-freako.github.io/agda_misc/html/simple_essence.html).
