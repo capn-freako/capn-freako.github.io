@@ -108,15 +108,15 @@ author:
   location         : "Silicon Valley"
   email            : "capn.freako@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:capn-freako@gmail.com"
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/david-banas/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/capn-freako"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "mailto:capn-freako@gmail.com"
 
 # Site Footer
 footer:
