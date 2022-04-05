@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "David Banas"
-  avatar           : "/assets/images/HeadCaricature.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/HeadCaricatureAvatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Techno-Psycha-Dork."
   location         : "Silicon Valley"
   email            : "capn.freako@gmail.com"
