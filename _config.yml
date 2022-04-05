@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Freako's Folley"
 title_separator          : "-"
 subtitle                 : "The musings of an inquisitive soul diagonally parked in a parallel Universe." # site tagline that appears below site title in masthead
-name                     : "David Banas"
+name                     : "Cap'n Freako"
 description              : "The musings of an inquisitive soul diagonally parked in a parallel Universe."
 url                      : "https://capn-freako.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -102,7 +102,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "David Banas"
+  name             : "Cap'n Freako"
   avatar           : "/assets/images/HeadCaricatureAvatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Techno-Psycha-Dork."
   location         : "Silicon Valley"
