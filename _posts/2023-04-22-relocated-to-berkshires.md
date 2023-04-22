@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'I've relocated to the Berkshires.'
+title: 'We`ve relocated to the Berkshires.'
 date: '2023-04-22 13:29:00 -0400'
 categories: 'personal trivia fun-fact'
 ...
