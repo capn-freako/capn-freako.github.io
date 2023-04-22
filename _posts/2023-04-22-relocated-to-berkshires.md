@@ -10,7 +10,7 @@ Specifically, we've landed in [Lenox, MA](https://en.wikipedia.org/wiki/Lenox,_M
 And we love it!
 The town's motto is: _Where city culture meets country living_.
 And it couldn't be more apt.
-It's a wonderfully sleepy town of 5,000 people, but sporting several upscale restaurants, botiques, coffee houses, and even a Frenc patisserie!
+It's a wonderfully sleepy town of 5,000 people, but sporting several upscale restaurants, botiques, coffee houses, and even a French patisserie!
 
 We see the sun set over the Berkshires from our living room window and it's beautiful!
 
