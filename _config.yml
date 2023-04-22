@@ -105,7 +105,7 @@ author:
   name             : "Cap'n Freako"
   avatar           : "/assets/images/HeadCaricatureAvatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Techno-Psyche-Dork."
-  location         : "Silicon Valley"
+  location         : "The Berkshires"
   email            : "capn.freako@gmail.com"
   links:
     - label: "LinkedIn"
